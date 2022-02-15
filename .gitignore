@@ -8,7 +8,5 @@ Gemfile.lock
 notes.txt
 _site/
 node_modules/
-.vscode/
-
 
 test.js
